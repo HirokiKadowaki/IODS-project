@@ -1,4 +1,9 @@
 
 # About the project
 
+# I am relatively new to programming. I have only tried coding using R once and still have much to learn. I hope to acquire new skills on programming and coding through this couse. I was introduced to this course by one of my friend and I am grateful that he told me about this course!
+https://github.com/hirokikadowaki/IODS-project
+
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+index.Rmd
+
